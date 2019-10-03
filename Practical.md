@@ -1,11 +1,15 @@
 # PRACTICAL PROBLEM SOLVING  
 
- RUPESH KUMAR
+PRACTICAL REPORT
 
- 1914093
+SUBMITED BY  
 
-  CE
+NAME-RUPESH KUMAR
 
-  B2
+ROLL NO-1914093
+
+BRANCH-CE
+
+SECTION-B2
 
   ![RUPESH](https://raw.githubusercontent.com/1914093/Practical-File-PPS/master/index.jpeg)
